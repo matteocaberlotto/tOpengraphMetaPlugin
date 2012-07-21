@@ -1,0 +1,6 @@
+1. activate plugin
+
+2. add following line to layout (under include_metas):
+    <?php include_og_metas() ?>
+
+3. follow app.yml sample to add og metadata to your website for each module/action

@@ -1,0 +1,10 @@
+#all:
+#  tOpengraphMeta:
+#    config:
+#      pages:
+#        homepage:
+#          meta:
+#            title: My cool website
+#            type: video.movie
+#            image: http://www.mywebsite.com/myimage.jpg
+#            url: http://www.mywebsite.com/
